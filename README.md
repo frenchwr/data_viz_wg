@@ -1,2 +1,7 @@
-# data_viz_wg
-Numpy and Pandas Demo for Data Visualization Working Group
+# Data Viz Working Group - Numpy and Pandas Demo
+
+There are a few notebooks in this repo:
+
+- create_numpy_pandas_kernel.ipynb
+- numpy_pandas_demo.ipynb 
+-
